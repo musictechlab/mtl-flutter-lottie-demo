@@ -1,5 +1,7 @@
 # Lottie POC (Flutter)
 
+[![Built by MusicTech Lab](https://musictechlab.io/oss/build-by-musictechlab.io.svg)](https://musictechlab.io)
+
 <img src="demo.jpeg" alt="Demo" width="200" />
 
 Demo app showcasing the `lottie` Flutter package with:
